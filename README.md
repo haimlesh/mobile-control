@@ -3,11 +3,15 @@ Mobile Control
 With this app, you can move your mouse using the phone accelerometer, click it using your voice and set the screen brightness to match your phone light sensor.
 
 You will need the following packages:
+
 BeautifulSoup4 (pip install beautifulsoup4)
+
 wmi (pip install wmi)
+
 pynput (pip install pynput)
 
 You'll also need and app that turns your android phone into a transmitter. I used Sensor Node:
+
 https://play.google.com/store/apps/details?id=com.mscino.sensornode&hl=en
 
 Instructions:
